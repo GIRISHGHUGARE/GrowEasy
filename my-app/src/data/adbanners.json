@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Ad Banner 1",
+      "description": "This is a sample ad banner",
+      "cta": "Learn More",
+      "image": "blue.png",
+      "background": "template1"
+    },
+    {
+      "id": 2,
+      "title": "Ad Banner 2",
+      "description": "This is another sample ad banner",
+      "cta": "Sign Up",
+      "image": "pink.png",
+      "background": "template2"
+    },
+    {
+      "id": 3,
+      "title": "Ad Banner 3",
+      "description": "This is a third sample ad banner",
+      "cta": "Get Started",
+      "image": "darkblue.png",
+      "background": "template3"
+    },
+    {
+      "id": 3,
+      "title": "Ad Banner 3",
+      "description": "This is a third sample ad banner",
+      "cta": "Get Started",
+      "image": "orange.png",
+      "background": "template3"
+    }
+  ]
